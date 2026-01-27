@@ -7,4 +7,7 @@ The article "We Need to Decarbonize Software" describes what green software engi
 
 I enjoyed the article because it gave actual tips on how software engineers can build greener software such as training AIs on less data, using lower resolution images on websites, and choosing hardware that is energy efficient. One of the most interesting tips was for engineers to use tools that measure the carbon footprint of systems. Overall, I found the article to be not only interesting, but very important as AI and software engineering continues to grow and environmental concerns continue to rise.  
 
+### Claire Boczkowski's Comment
+I appreciate that the article gave solutions to the impact that technology has on the environment which can often be overlooked. I've never heard of green software measurement tools and found that portion of the article particularly interesting. 
+
 
